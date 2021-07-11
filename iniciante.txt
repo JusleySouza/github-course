@@ -1,0 +1,2 @@
+git course
+este é um repositório teste para os iniciantes saberem como funciona o git.
