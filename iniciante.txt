@@ -2,3 +2,4 @@ git course
 Este é um repositório teste para os iniciantes saberem como funciona o git.
 Saiba mais em udemy.com
 Gostou do curso? Quer mais?
+Nos financie e ajude a outras pessoas a conhecer nossos conteúdos.
